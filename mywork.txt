@@ -1,0 +1,16 @@
+My asscoiate id:845104
+Other team members: 844829, 845101, 845137,844827.
+Team lead: 844829
+My Role in team:
+1. To develop landing and view page.
+My development files:
+ 1.landing.html
+ 2.viewOrder.html
+I was strong in:
+1. HTML
+2. Css
+3. Documentation
+4. Bootstrap
+
+Feedback:
+1. Providing the information about basis of evaluation would be little helpful.
